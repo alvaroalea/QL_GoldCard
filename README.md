@@ -12,12 +12,12 @@ This project match schematics found on internet, and pictures of the real interf
 
 * There is no know source of the JEDEC file for the Altera's CPLD
 * Some IC can be deprecated and not found on market.
-* No information about original has 2 or 4 copper layer, I must use 4, as I was not able to do it in only 2.
+* No information about original has 2 or 4 copper layer, I just use 4, as I was not able to do it in only 2.
 
 Anyway:
 * There is not error or warning on the PCB and Schematics
 * Schematics seen to be good
-* Copper side match 1:1 pictures of internet, there is 2 aditional vias for tracks I as unable to route using original design.
+* Copper side match 1:1 pictures of internet.
 
 For that:
 * If you take the risk and do one and it work, please let me know.
@@ -26,7 +26,7 @@ For that:
 
 Two folder
 * Original - The design as similar as posible to the Miracles design.
-* Alea - new design with new componentes.
+* Alea - new design with new footprints.
 
 
 ## The GoldCard Board
@@ -34,7 +34,7 @@ This card is a upgrade of the Sinclair QL computer from 1985, it provide a 68000
 
 Provide Aditional 1920Mb of Ram (16bits) of 2048Mb installed. (128Kb are used as shadow Rom)
 
-Include a up to 4 disk drive (2 + 2 with a add-on card) compatible with 720Kb, 1.44Mb and 2.88Mb (up to 3.2Mb depend of the format)
+Include a up to 4 disk drive (3 + 1 with a add-on card) compatible with 720Kb, 1.44Mb and 2.88Mb (up to 3.2Mb depend of the format)
 
 It have a Real Time Clock.
 
