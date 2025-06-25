@@ -788,7 +788,7 @@
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R3"
-			(at 3.81 0 0)
+			(at 9.906 0 0)
 			(layer "F.SilkS")
 			(uuid "7720087f-6289-4490-bab1-56fc45a1ed1f")
 			(effects
@@ -4783,7 +4783,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D1"
-			(at 4.064 0 0)
+			(at -2.2352 0 0)
 			(layer "F.SilkS")
 			(uuid "55205c0e-1d94-4397-bbad-d7a2cb08e4de")
 			(effects
@@ -5973,7 +5973,7 @@
 		(descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
 		(tags "C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor")
 		(property "Reference" "C1"
-			(at -1.9758 -0.0254 0)
+			(at 4.552 -0.0254 0)
 			(layer "F.SilkS")
 			(uuid "5996bd80-151a-4beb-bea9-5d73c069be37")
 			(effects
@@ -11770,7 +11770,7 @@
 		(descr "PLCC, 68 pins, through hole")
 		(tags "plcc leaded")
 		(property "Reference" "U2"
-			(at 0 -2.032 0)
+			(at -16.891 -1.905 0)
 			(layer "F.SilkS")
 			(uuid "fdcea879-e33d-46c2-a7cb-1ad222a15e1a")
 			(effects
@@ -12819,7 +12819,7 @@
 		(descr "PLCC, 68 pins, through hole")
 		(tags "plcc leaded")
 		(property "Reference" "U1"
-			(at -2.0828 -3.8608 0)
+			(at -16.764 -1.925 0)
 			(layer "F.SilkS")
 			(uuid "9db8de5c-c441-438a-b759-edb2bf2bd2c4")
 			(effects
@@ -14195,7 +14195,7 @@
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R4"
-			(at 3.81 0 0)
+			(at 9.906 0 0)
 			(layer "F.SilkS")
 			(uuid "7a4c4722-70c1-404b-96d3-ed42e5a69314")
 			(effects
@@ -18224,7 +18224,7 @@
 		(descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
 		(tags "C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor")
 		(property "Reference" "C2"
-			(at -1.9558 0.0254 0)
+			(at 4.572 0.0254 0)
 			(layer "F.SilkS")
 			(uuid "a4eaad74-d61b-41ac-85df-59303ee56b3a")
 			(effects
@@ -18425,7 +18425,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D3"
-			(at 3.81 0 90)
+			(at 3.556 1.905 90)
 			(layer "F.SilkS")
 			(uuid "f101484a-2049-4931-8242-b6db6824e1f6")
 			(effects
@@ -18770,7 +18770,7 @@
 		(descr "PLCC, 52 pins, through hole")
 		(tags "plcc leaded")
 		(property "Reference" "U12"
-			(at -11.557 24.13 180)
+			(at -13.716 -1.524 270)
 			(layer "F.SilkS")
 			(uuid "2a85f73c-18da-4250-8899-5f413771c3f4")
 			(effects
@@ -19643,7 +19643,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D2"
-			(at 4.0132 0 0)
+			(at -2.286 0 0)
 			(layer "F.SilkS")
 			(uuid "60231d57-ca68-4457-b62a-0d21c6117b64")
 			(effects
@@ -23032,8 +23032,8 @@
 		(uuid "17210d28-5393-484c-a54c-e16aa8e83a08")
 	)
 	(gr_circle
-		(center 145.4912 57.531)
-		(end 145.6944 57.8866)
+		(center 145.4658 57.277)
+		(end 145.669 57.6326)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -23043,8 +23043,8 @@
 		(uuid "1e7d2e20-35b7-4841-8bf8-d221e169fbc1")
 	)
 	(gr_circle
-		(center 148.3868 59.0042)
-		(end 148.59 59.3598)
+		(center 148.3614 58.7502)
+		(end 148.5646 59.1058)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -23097,8 +23097,8 @@
 		(uuid "6b599a29-0399-4a42-a2e1-e39ee8152ecc")
 	)
 	(gr_circle
-		(center 146.9644 59.0042)
-		(end 147.1676 59.3598)
+		(center 146.939 58.7502)
+		(end 147.1422 59.1058)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -23108,8 +23108,8 @@
 		(uuid "6d7538d2-5ba8-42b2-a3fd-b072ddaf9d88")
 	)
 	(gr_circle
-		(center 148.3868 57.531)
-		(end 148.59 57.8866)
+		(center 148.3614 57.277)
+		(end 148.5646 57.6326)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -23119,8 +23119,8 @@
 		(uuid "8a85d452-27ea-4a6f-a54e-0df4ee3c0cbc")
 	)
 	(gr_line
-		(start 146.9136 59.0042)
-		(end 148.3868 59.0042)
+		(start 146.8882 58.7502)
+		(end 148.3614 58.7502)
 		(stroke
 			(width 0.889)
 			(type solid)
@@ -23129,8 +23129,8 @@
 		(uuid "8e985ce7-33fc-48e2-aeeb-fde2143396c7")
 	)
 	(gr_circle
-		(center 146.9644 57.531)
-		(end 147.1676 57.8866)
+		(center 146.939 57.277)
+		(end 147.1422 57.6326)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -23150,8 +23150,8 @@
 		(uuid "adb9179b-7012-475a-afb5-5780798e53ae")
 	)
 	(gr_line
-		(start 146.9136 57.531)
-		(end 148.3868 57.531)
+		(start 146.8882 57.277)
+		(end 148.3614 57.277)
 		(stroke
 			(width 0.889)
 			(type solid)
@@ -23171,8 +23171,8 @@
 		(uuid "de950cf7-c50c-49bb-85a4-47c365b53c78")
 	)
 	(gr_circle
-		(center 145.4912 59.0042)
-		(end 145.6944 59.3598)
+		(center 145.4658 58.7502)
+		(end 145.669 59.1058)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -24029,8 +24029,20 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "DP4873V"
+		(at 157.861 122.682 0)
+		(layer "F.SilkS")
+		(uuid "4800b713-4017-40ea-b3ff-1cba69de8723")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "Backplane \n5V"
-		(at 145.6944 60.198 270)
+		(at 145.669 59.944 270)
 		(layer "F.SilkS")
 		(uuid "e9f61df5-27ef-4073-8c02-0ae5fbea72ad")
 		(effects
