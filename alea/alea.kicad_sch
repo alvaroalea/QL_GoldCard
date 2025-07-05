@@ -5,8 +5,8 @@
 	(uuid "aecd9f77-969e-41c8-a7ad-8348a70f1d7d")
 	(paper "A2")
 	(title_block
-		(title "Sinclair QL Gold Card 3")
-		(date "2024-04-11")
+		(title "Sinclair QL Gold Card 4 (ALEA's Version)")
+		(date "2025-07-05")
 		(rev "0.0")
 		(company "Alvaro Alea Fernandez")
 		(comment 1 "Based on schematic from tetroid")
@@ -12011,6 +12011,12 @@
 		(uuid "05fdccd5-1d70-46b8-91a0-7826ec7ce6b5")
 	)
 	(junction
+		(at 50.8 359.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0e5468c0-4778-4a9f-ba3b-c8390ca4fc7e")
+	)
+	(junction
 		(at 209.55 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12347,6 +12353,12 @@
 		(uuid "a2ed23b4-420f-4e6a-b803-efe9f6046379")
 	)
 	(junction
+		(at 154.94 344.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a795a27c-9ac1-403e-819d-2f9041b435bd")
+	)
+	(junction
 		(at 209.55 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12561,10 +12573,6 @@
 	(no_connect
 		(at 194.31 119.38)
 		(uuid "7bf91e72-cf0b-4f55-a9a3-dcb755e83b83")
-	)
-	(no_connect
-		(at 292.1 135.89)
-		(uuid "7d023973-3dcf-4c04-abe1-ddff7f465089")
 	)
 	(no_connect
 		(at 194.31 83.82)
@@ -16012,6 +16020,16 @@
 		)
 		(uuid "1504f6e7-a205-4ca3-b1d6-b23e56dad0ac")
 	)
+	(wire
+		(pts
+			(xy 154.94 344.17) (xy 210.82 344.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16539551-b9cd-4604-a418-8299e22d3649")
+	)
 	(bus
 		(pts
 			(xy 335.28 120.65) (xy 335.28 125.73)
@@ -17613,16 +17631,6 @@
 		)
 		(uuid "45484ac5-2265-4a10-8c59-eb32c4ec5401")
 	)
-	(wire
-		(pts
-			(xy 154.94 344.17) (xy 210.82 344.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4585bb11-13bd-4939-9bf6-0d85cf1ee3a1")
-	)
 	(bus
 		(pts
 			(xy 176.53 91.44) (xy 176.53 93.98)
@@ -18599,6 +18607,16 @@
 			(type default)
 		)
 		(uuid "5d51cc22-112e-4a96-a3d9-e6e97207df3d")
+	)
+	(wire
+		(pts
+			(xy 129.54 344.17) (xy 154.94 344.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d9fd023-605d-401f-a967-4eea8a6cd84c")
 	)
 	(wire
 		(pts
@@ -21188,6 +21206,16 @@
 		)
 		(uuid "a7075e71-e7aa-4c2c-921f-0806b92595f2")
 	)
+	(wire
+		(pts
+			(xy 129.54 341.63) (xy 129.54 344.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a71ca5f5-7432-4ab7-a606-3adfdd2d6aa4")
+	)
 	(bus
 		(pts
 			(xy 303.53 270.51) (xy 303.53 273.05)
@@ -21218,6 +21246,16 @@
 			(type default)
 		)
 		(uuid "a7f795ad-c23d-425e-9ea3-7e6f9a00fbc6")
+	)
+	(wire
+		(pts
+			(xy 294.64 135.89) (xy 294.64 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a800364c-2ae5-49da-98f3-c8793962ea78")
 	)
 	(wire
 		(pts
@@ -21362,6 +21400,16 @@
 			(color 132 0 0 1)
 		)
 		(uuid "ae378d9d-457f-478c-a31d-e0bd40bd2a80")
+	)
+	(wire
+		(pts
+			(xy 292.1 135.89) (xy 294.64 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae4f9e71-fdbe-4231-9028-755b6475d31f")
 	)
 	(wire
 		(pts
@@ -21685,6 +21733,16 @@
 			(type default)
 		)
 		(uuid "b954cfd8-010c-4182-bf74-271ad275a2bb")
+	)
+	(wire
+		(pts
+			(xy 294.64 134.62) (xy 307.34 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b95522c5-206a-4aaf-8c70-eb6ac9db86e1")
 	)
 	(wire
 		(pts
@@ -22803,7 +22861,7 @@
 	)
 	(wire
 		(pts
-			(xy 445.77 394.97) (xy 445.77 396.875)
+			(xy 445.77 394.97) (xy 445.77 397.51)
 		)
 		(stroke
 			(width 0)
@@ -23646,6 +23704,16 @@
 			(type default)
 		)
 		(uuid "f0023218-cf44-4b57-b09e-1ffee927f7dc")
+	)
+	(wire
+		(pts
+			(xy 129.54 332.74) (xy 129.54 334.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f00f1f38-0885-4c61-a2ce-a42f8060a266")
 	)
 	(bus
 		(pts
@@ -28119,7 +28187,7 @@
 		(fields_autoplaced yes)
 		(uuid "0fa00fb3-c3ed-4a5e-b068-58c86ddf64e5")
 		(property "Reference" "C2"
-			(at 193.675 330.2 0)
+			(at 194.31 330.1999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28127,8 +28195,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 193.675 332.74 0)
+		(property "Value" "22p"
+			(at 194.31 332.7399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28565,6 +28633,76 @@
 			(project "GoldCard"
 				(path "/aecd9f77-969e-41c8-a7ad-8348a70f1d7d"
 					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "GoldCard_Library:C")
+		(at 129.54 337.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "172d135b-548d-4228-a7cd-6a4c4c5f343e")
+		(property "Reference" "C17"
+			(at 133.35 336.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 133.35 339.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+			(at 130.5052 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 129.54 337.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 129.54 337.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fe553d06-ff1c-44d9-af43-365fc7959e16")
+		)
+		(pin "2"
+			(uuid "59617164-4e2b-410a-982f-d40bf7de40ee")
+		)
+		(instances
+			(project "alea"
+				(path "/aecd9f77-969e-41c8-a7ad-8348a70f1d7d"
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -31218,6 +31356,138 @@
 		)
 	)
 	(symbol
+		(lib_id "GoldCard_Library:PWR_FLAG")
+		(at 50.8 359.41 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6944d69e-60fa-425b-9e0b-38bb76d3ada6")
+		(property "Reference" "#FLG05"
+			(at 52.705 359.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 52.07 357.378 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 50.8 359.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 50.8 359.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 50.8 359.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "585bb463-525b-472d-b9fc-f6480ed30649")
+		)
+		(instances
+			(project "alea"
+				(path "/aecd9f77-969e-41c8-a7ad-8348a70f1d7d"
+					(reference "#FLG05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "GoldCard_Library:GND")
+		(at 307.34 134.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6e5be859-372d-4892-b359-874abfb5cb96")
+		(property "Reference" "#PWR055"
+			(at 307.34 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 307.34 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 307.34 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 307.34 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 307.34 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0bb19686-ba56-493d-9aee-130544a12584")
+		)
+		(instances
+			(project "alea"
+				(path "/aecd9f77-969e-41c8-a7ad-8348a70f1d7d"
+					(reference "#PWR055")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "GoldCard_Library:+5V")
 		(at 85.09 64.77 0)
 		(unit 1)
@@ -32863,7 +33133,7 @@
 	)
 	(symbol
 		(lib_id "GoldCard_Library:GND")
-		(at 445.77 396.875 0)
+		(at 445.77 397.51 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32872,7 +33142,7 @@
 		(fields_autoplaced yes)
 		(uuid "9b4f192d-9b63-4877-9c40-a3efc21c6b5d")
 		(property "Reference" "#PWR049"
-			(at 445.77 403.225 0)
+			(at 445.77 403.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32881,7 +33151,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 445.77 401.955 0)
+			(at 445.77 402.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32889,7 +33159,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 445.77 396.875 0)
+			(at 445.77 397.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32898,7 +33168,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 445.77 396.875 0)
+			(at 445.77 397.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32907,7 +33177,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 445.77 396.875 0)
+			(at 445.77 397.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32988,6 +33258,72 @@
 			(project "GoldCard"
 				(path "/aecd9f77-969e-41c8-a7ad-8348a70f1d7d"
 					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "GoldCard_Library:PWR_FLAG")
+		(at 154.94 344.17 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9fe5fccc-b013-4ed4-abbe-a112774909da")
+		(property "Reference" "#FLG04"
+			(at 154.94 346.075 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 160.274 348.488 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 154.94 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 154.94 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 154.94 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "68f8b537-beb7-40cb-baed-f2ab44fd3312")
+		)
+		(instances
+			(project "alea"
+				(path "/aecd9f77-969e-41c8-a7ad-8348a70f1d7d"
+					(reference "#FLG04")
 					(unit 1)
 				)
 			)
@@ -33079,7 +33415,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Crystal"
+		(property "Value" "32768hz"
 			(at 178.435 320.675 0)
 			(effects
 				(font
@@ -33142,15 +33478,15 @@
 		(fields_autoplaced yes)
 		(uuid "a6b78729-7751-4246-92a2-c8d6caaabe74")
 		(property "Reference" "Q1"
-			(at 109.22 307.975 90)
+			(at 109.22 308.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "BC109"
-			(at 109.22 310.515 90)
+		(property "Value" "BC548"
+			(at 109.22 311.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33538,6 +33874,72 @@
 			(project ""
 				(path "/aecd9f77-969e-41c8-a7ad-8348a70f1d7d"
 					(reference "BT1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "GoldCard_Library:+5V")
+		(at 129.54 332.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "af2adac3-cf34-45be-8d1e-6e68d48a3f2d")
+		(property "Reference" "#PWR056"
+			(at 129.54 336.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 129.54 327.5076 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 129.54 332.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 332.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 129.54 332.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "12951434-95ed-4e5f-847c-ed88149672a1")
+		)
+		(instances
+			(project "alea"
+				(path "/aecd9f77-969e-41c8-a7ad-8348a70f1d7d"
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -34145,6 +34547,72 @@
 		)
 	)
 	(symbol
+		(lib_id "GoldCard_Library:PWR_FLAG")
+		(at 95.25 368.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cb88662f-01d1-4c3d-9720-047dc165b6b3")
+		(property "Reference" "#FLG02"
+			(at 95.25 366.395 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 93.218 364.236 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 95.25 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 95.25 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 95.25 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "afb6488d-8fe7-4f95-a968-c7b87697f78e")
+		)
+		(instances
+			(project "alea"
+				(path "/aecd9f77-969e-41c8-a7ad-8348a70f1d7d"
+					(reference "#FLG02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "GoldCard_Library:GND")
 		(at 209.55 123.19 0)
 		(mirror y)
@@ -34550,7 +35018,7 @@
 		(fields_autoplaced yes)
 		(uuid "d73c16f5-22dc-4728-b055-340754ec2723")
 		(property "Reference" "C1"
-			(at 175.26 331.47 0)
+			(at 175.26 331.4699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34558,8 +35026,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 175.26 334.01 0)
+		(property "Value" "22p"
+			(at 175.26 334.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35293,7 +35761,7 @@
 		(fields_autoplaced yes)
 		(uuid "eb629671-5a3a-4905-a768-f814a1242665")
 		(property "Reference" "R1"
-			(at 95.885 330.2 0)
+			(at 96.52 330.1999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35301,8 +35769,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
-			(at 95.885 332.74 0)
+		(property "Value" "1K"
+			(at 96.52 332.7399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35686,15 +36154,15 @@
 		(fields_autoplaced yes)
 		(uuid "f67fad4f-6a4b-4b34-9ba6-cf1d411cccb8")
 		(property "Reference" "R2"
-			(at 101.6 319.405 90)
+			(at 101.6 318.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 101.6 321.945 90)
+		(property "Value" "1K"
+			(at 101.6 321.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)

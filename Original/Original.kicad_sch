@@ -11829,12 +11829,6 @@
 		(uuid "3c9e5fe4-b50e-4bb1-b4ea-06534ad32897")
 	)
 	(junction
-		(at 83.82 368.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "41254340-5457-4a36-9d20-6eac73577565")
-	)
-	(junction
 		(at 209.55 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12159,6 +12153,12 @@
 		(uuid "d6ac6d9c-9171-422a-be35-0c487e305a56")
 	)
 	(junction
+		(at 129.54 359.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d78c168d-bc78-4154-bdb3-6c52d20da948")
+	)
+	(junction
 		(at 358.14 288.29)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12269,10 +12269,6 @@
 	(no_connect
 		(at 194.31 119.38)
 		(uuid "7bf91e72-cf0b-4f55-a9a3-dcb755e83b83")
-	)
-	(no_connect
-		(at 292.1 135.89)
-		(uuid "7d023973-3dcf-4c04-abe1-ddff7f465089")
 	)
 	(no_connect
 		(at 194.31 83.82)
@@ -16150,6 +16146,16 @@
 		)
 		(uuid "240a30c7-c2e5-4f3e-b892-88b23fe834b7")
 	)
+	(wire
+		(pts
+			(xy 292.1 135.89) (xy 295.91 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "243e9a36-338e-4de4-95e9-0d06e616470e")
+	)
 	(bus
 		(pts
 			(xy 303.53 278.13) (xy 303.53 280.67)
@@ -17343,6 +17349,16 @@
 		)
 		(uuid "448c419f-7bff-4f2f-9f0c-e1593e3eefe9")
 	)
+	(wire
+		(pts
+			(xy 295.91 135.89) (xy 295.91 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44d824f2-6ff3-47a2-b5fb-b3e154785ff7")
+	)
 	(bus
 		(pts
 			(xy 303.53 267.97) (xy 303.53 270.51)
@@ -17497,6 +17513,16 @@
 			(type default)
 		)
 		(uuid "48813033-bf0d-47fe-bf34-b6e63f7c5b34")
+	)
+	(wire
+		(pts
+			(xy 295.91 133.35) (xy 307.34 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48bcee1f-869f-4cf7-afb7-e4fcdc5b0305")
 	)
 	(bus
 		(pts
@@ -18250,6 +18276,16 @@
 		)
 		(uuid "5b9b199e-6f21-47b6-ab74-9f23413b222f")
 	)
+	(wire
+		(pts
+			(xy 307.34 133.35) (xy 307.34 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c14d801-e370-4bbf-b8bc-2bdfaf6fb3c4")
+	)
 	(bus
 		(pts
 			(xy 452.12 148.59) (xy 452.12 190.5)
@@ -18886,6 +18922,16 @@
 			(type default)
 		)
 		(uuid "6c34f75f-12c1-4670-90e1-2ac42f686cc0")
+	)
+	(wire
+		(pts
+			(xy 109.22 359.41) (xy 109.22 354.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c919e2c-b2c4-41da-9c09-3456869e0328")
 	)
 	(wire
 		(pts
@@ -21521,16 +21567,6 @@
 		)
 		(uuid "be703972-9342-4932-a2fa-72f2d4132001")
 	)
-	(wire
-		(pts
-			(xy 83.82 378.46) (xy 83.82 368.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bea43b08-822d-4338-b8a0-6a13bb18289e")
-	)
 	(bus
 		(pts
 			(xy 137.16 199.39) (xy 137.16 201.93)
@@ -22009,6 +22045,16 @@
 		)
 		(uuid "ca1b6510-0f2f-4d9e-b2b6-3ae2042e00cd")
 	)
+	(wire
+		(pts
+			(xy 129.54 359.41) (xy 109.22 359.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca7ebce4-339e-4e05-9909-caa901320446")
+	)
 	(bus
 		(pts
 			(xy 254 262.89) (xy 254 217.17)
@@ -22028,16 +22074,6 @@
 			(type default)
 		)
 		(uuid "caf76ce3-7e0b-4b16-948f-ae250a15b2ff")
-	)
-	(wire
-		(pts
-			(xy 83.82 386.08) (xy 83.82 396.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cb07bf0a-b848-4536-b89d-d44fda1f7ce9")
 	)
 	(wire
 		(pts
@@ -23423,6 +23459,16 @@
 			(type default)
 		)
 		(uuid "f3446d7d-3d69-4ec6-9e8a-59971006c568")
+	)
+	(wire
+		(pts
+			(xy 109.22 344.17) (xy 109.22 346.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f46c57eb-6684-41f0-9207-177d9a443bda")
 	)
 	(wire
 		(pts
@@ -27414,7 +27460,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04b4679b-129e-4e50-8f4d-2d2e362f2a8e")
-		(property "Reference" "C16"
+		(property "Reference" "C17"
 			(at 67.31 380.9999 0)
 			(effects
 				(font
@@ -27468,7 +27514,7 @@
 		(instances
 			(project "GoldCard"
 				(path "/aecd9f77-969e-41c8-a7ad-8348a70f1d7d"
-					(reference "C16")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -27781,7 +27827,7 @@
 		(fields_autoplaced yes)
 		(uuid "0fa00fb3-c3ed-4a5e-b068-58c86ddf64e5")
 		(property "Reference" "C2"
-			(at 168.275 337.82 0)
+			(at 168.91 337.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27789,8 +27835,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 168.275 340.36 0)
+		(property "Value" "22p"
+			(at 168.91 340.3599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30551,76 +30597,6 @@
 		)
 	)
 	(symbol
-		(lib_id "GoldCard_Library:C")
-		(at 156.21 382.27 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5b33c9c1-0f59-41f1-aab5-a154821d0cc6")
-		(property "Reference" "C7"
-			(at 160.02 381 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "330n"
-			(at 160.02 383.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L9.0mm_W2.5mm_P7.50mm_MKT"
-			(at 157.1752 386.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 156.21 382.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 156.21 382.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "36d5bd2c-cebb-485a-b326-eb09182d2d5f")
-		)
-		(pin "2"
-			(uuid "7ce94db1-535c-4806-909e-eae58a9af3c4")
-		)
-		(instances
-			(project "GoldCard"
-				(path "/aecd9f77-969e-41c8-a7ad-8348a70f1d7d"
-					(reference "C7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "GoldCard_Library:GND")
 		(at 63.5 397.51 0)
 		(unit 1)
@@ -30805,6 +30781,72 @@
 			(project "GoldCard"
 				(path "/aecd9f77-969e-41c8-a7ad-8348a70f1d7d"
 					(reference "U6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "GoldCard_Library:+5V")
+		(at 109.22 344.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "63e956a9-1d5d-40bc-afa8-76e65f52f54b")
+		(property "Reference" "#PWR046"
+			(at 109.22 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 109.22 338.9376 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d21d8ba5-223b-4327-996f-73e1eb746e52")
+		)
+		(instances
+			(project "Original"
+				(path "/aecd9f77-969e-41c8-a7ad-8348a70f1d7d"
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -31266,6 +31308,72 @@
 			(project "GoldCard"
 				(path "/aecd9f77-969e-41c8-a7ad-8348a70f1d7d"
 					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "GoldCard_Library:GND")
+		(at 307.34 135.89 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7bc31a2a-51e6-4164-b4c1-295e666f3135")
+		(property "Reference" "#PWR049"
+			(at 307.34 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 307.34 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 307.34 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 307.34 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 307.34 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e989edd8-d88b-4408-986a-72e00e8e3a11")
+		)
+		(instances
+			(project "Original"
+				(path "/aecd9f77-969e-41c8-a7ad-8348a70f1d7d"
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -32046,7 +32154,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_LCC:PLCC-52*"
+		(property "Footprint" "Package_LCC:PLCC-52_THT-Socket"
 			(at 106.68 129.54 0)
 			(effects
 				(font
@@ -32510,7 +32618,7 @@
 	)
 	(symbol
 		(lib_id "GoldCard_Library:C")
-		(at 83.82 382.27 0)
+		(at 156.21 382.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32518,8 +32626,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99a0431c-43d7-4980-ac23-5e75ac0b3ac2")
-		(property "Reference" "C10"
-			(at 87.63 380.9999 0)
+		(property "Reference" "C16"
+			(at 160.02 380.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32528,7 +32636,7 @@
 			)
 		)
 		(property "Value" "330n"
-			(at 87.63 383.5399 0)
+			(at 160.02 383.5399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32537,7 +32645,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
-			(at 84.7852 386.08 0)
+			(at 157.1752 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32546,7 +32654,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 83.82 382.27 0)
+			(at 156.21 382.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32555,7 +32663,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 83.82 382.27 0)
+			(at 156.21 382.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32572,7 +32680,7 @@
 		(instances
 			(project "GoldCard"
 				(path "/aecd9f77-969e-41c8-a7ad-8348a70f1d7d"
-					(reference "C10")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -32796,7 +32904,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Crystal"
+		(property "Value" "32768Hz"
 			(at 153.035 328.295 0)
 			(effects
 				(font
@@ -32859,15 +32967,15 @@
 		(fields_autoplaced yes)
 		(uuid "a6b78729-7751-4246-92a2-c8d6caaabe74")
 		(property "Reference" "Q1"
-			(at 91.44 327.025 90)
+			(at 91.44 327.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "BC109"
-			(at 91.44 329.565 90)
+		(property "Value" "BC548"
+			(at 91.44 330.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33794,6 +33902,76 @@
 		)
 	)
 	(symbol
+		(lib_id "GoldCard_Library:C")
+		(at 109.22 350.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cb0f2544-6470-42df-9f64-e9558f217b29")
+		(property "Reference" "C7"
+			(at 113.03 349.2499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 113.03 351.7899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Rect_L9.0mm_W2.5mm_P7.50mm_MKT"
+			(at 110.1852 354.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 109.22 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "285f9e15-5e2e-4a48-868f-fc415d51de57")
+		)
+		(pin "2"
+			(uuid "0b18663f-d442-4c76-9392-bcff1d57207a")
+		)
+		(instances
+			(project "Original"
+				(path "/aecd9f77-969e-41c8-a7ad-8348a70f1d7d"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "GoldCard_Library:GND")
 		(at 209.55 123.19 0)
 		(mirror y)
@@ -34199,7 +34377,7 @@
 		(fields_autoplaced yes)
 		(uuid "d73c16f5-22dc-4728-b055-340754ec2723")
 		(property "Reference" "C1"
-			(at 149.86 339.09 0)
+			(at 149.86 339.0899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34207,8 +34385,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 149.86 341.63 0)
+		(property "Value" "22p"
+			(at 149.86 341.6299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34942,7 +35120,7 @@
 		(fields_autoplaced yes)
 		(uuid "eb629671-5a3a-4905-a768-f814a1242665")
 		(property "Reference" "R1"
-			(at 78.105 349.25 0)
+			(at 78.74 349.2499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34950,8 +35128,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
-			(at 78.105 351.79 0)
+		(property "Value" "1k"
+			(at 78.74 351.7899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35335,15 +35513,15 @@
 		(fields_autoplaced yes)
 		(uuid "f67fad4f-6a4b-4b34-9ba6-cf1d411cccb8")
 		(property "Reference" "R2"
-			(at 83.82 338.455 90)
+			(at 83.82 337.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 83.82 340.995 90)
+		(property "Value" "1k"
+			(at 83.82 340.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
