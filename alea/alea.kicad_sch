@@ -6,7 +6,7 @@
 	(paper "A2")
 	(title_block
 		(title "Sinclair QL Gold Card 4 (ALEA's Version)")
-		(date "2025-07-05")
+		(date "2025-08-06")
 		(rev "0.0")
 		(company "Alvaro Alea Fernandez")
 		(comment 1 "Based on schematic from tetroid")
@@ -24197,7 +24197,7 @@
 		(uuid "09e8d454-bfd7-4728-9664-dd64dc472acb")
 	)
 	(label "DG1"
-		(at 488.95 73.66 0)
+		(at 488.95 71.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24417,7 +24417,7 @@
 		(uuid "199bcd13-b59c-4777-a279-5767278029cd")
 	)
 	(label "DG5"
-		(at 488.95 135.89 0)
+		(at 488.95 133.35 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25357,7 +25357,7 @@
 		(uuid "5237e87d-9703-4f83-b1d4-ffb171f55868")
 	)
 	(label "DG4"
-		(at 488.95 128.27 0)
+		(at 488.95 135.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25587,7 +25587,7 @@
 		(uuid "63643b56-176d-4945-98f5-84e27bb46f5f")
 	)
 	(label "DG0"
-		(at 488.95 66.04 0)
+		(at 488.95 73.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -26007,7 +26007,7 @@
 		(uuid "83975a02-35e3-4607-b3ad-ae3c0eaf28f6")
 	)
 	(label "DG2"
-		(at 488.95 68.58 0)
+		(at 488.95 66.04 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -26087,7 +26087,7 @@
 		(uuid "88fd141b-9380-4095-a7cf-7257f8c29676")
 	)
 	(label "DG7"
-		(at 488.95 133.35 0)
+		(at 488.95 130.81 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -26147,7 +26147,7 @@
 		(uuid "8d715b45-e679-4ca6-acb9-e40d83f33e1b")
 	)
 	(label "DG3"
-		(at 488.95 71.12 0)
+		(at 488.95 68.58 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27157,7 +27157,7 @@
 		(uuid "d4e0ac21-4a71-4e4b-bcf0-490e89687d52")
 	)
 	(label "DG6"
-		(at 488.95 130.81 0)
+		(at 488.95 128.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
